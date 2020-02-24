@@ -1,0 +1,92 @@
+2020-02-24 20:34:57 INFO  App:20 - HELLOO!!
+2020-02-24 20:49:17 INFO  App:23 - 	1.Calculate Simple Interest.
+	2.Calculate Compound Interest.
+	3.House construction cost.
+2020-02-24 20:49:17 INFO  App:26 - What do you want to do:
+2020-02-24 20:49:59 INFO  App:24 - What do you want to do:
+2020-02-24 20:49:59 INFO  App:25 - 
+	1.Calculate Simple Interest.
+	2.Calculate Compound Interest.
+	3.House construction cost.
+2020-02-24 20:50:33 INFO  App:24 - What do you want to do:
+	1.Calculate Simple Interest.
+	2.Calculate Compound Interest.
+	3.House construction cost.
+2020-02-24 20:51:12 INFO  App:24 - What do you want to do:
+	1.Calculate Simple Interest.
+	2.Calculate Compound Interest.
+	3.House construction cost.Enter your option:
+2020-02-24 20:51:22 INFO  App:24 - What do you want to do:
+	1.Calculate Simple Interest.
+	2.Calculate Compound Interest.
+	3.House construction cost.
+Enter your option:
+2020-02-24 20:51:29 INFO  App:32 - 	CAlCULATING SIMPLE INTEREST:
+2020-02-24 20:51:29 INFO  App:34 - Enter principle:
+2020-02-24 20:52:06 INFO  App:24 - What do you want to do:
+	1.Calculate Simple Interest.
+	2.Calculate Compound Interest.
+	3.House construction cost.
+Enter your option:
+2020-02-24 20:52:09 INFO  App:32 - 	CAlCULATING SIMPLE INTEREST:
+Enter principle:
+2020-02-24 20:52:14 INFO  App:37 - Enter rate:
+2020-02-24 20:54:02 INFO  App:24 - What do you want to do:
+	1.Calculate Simple Interest.
+	2.Calculate Compound Interest.
+	3.House construction cost.
+Enter your option:
+2020-02-24 20:54:04 INFO  App:32 - 	CAlCULATING SIMPLE INTEREST:
+Enter principle:
+2020-02-24 20:54:06 INFO  App:37 - 
+Enter rate:
+2020-02-24 20:54:09 INFO  App:40 - 
+Enter time:
+2020-02-24 20:54:14 INFO  SimpleInterest:23 - Simple Interest : 0.23
+2020-02-24 20:56:59 INFO  App:24 - What do you want to do:
+	1.Calculate Simple Interest.
+	2.Calculate Compound Interest.
+	3.House construction cost.
+Enter your option:
+2020-02-24 20:57:01 INFO  App:32 - 	CAlCULATING SIMPLE INTEREST:
+Enter principle:
+2020-02-24 20:57:05 INFO  App:37 - 
+Enter rate:
+2020-02-24 20:57:09 INFO  App:40 - 
+Enter time:
+2020-02-24 20:57:16 INFO  SimpleInterest:23 - 
+Simple Interest : 720.0
+2020-02-24 20:57:16 INFO  SimpleInterest:24 - CALCULATING SIMPLE INTEREST IS COMPLETE
+2020-02-24 21:01:48 INFO  App:24 - What do you want to do:
+	1.Calculate Simple Interest.
+	2.Calculate Compound Interest.
+	3.House construction cost.
+Enter your option:
+2020-02-24 21:01:52 INFO  App:48 - 	CAlCULATING COMPOUND INTEREST:
+Enter principle:
+2020-02-24 21:01:56 INFO  App:53 - 
+Enter rate:
+2020-02-24 21:02:06 INFO  App:56 - 
+Enter time:
+2020-02-24 21:02:08 INFO  App:59 - 
+Enter time period:
+2020-02-24 21:02:12 INFO  CompoundInterest:25 - 
+Compound Interest : 0.0
+2020-02-24 21:02:12 INFO  CompoundInterest:26 - CALCULATING COMPOUND INTEREST IS COMPLETE
+
+2020-02-24 21:02:23 INFO  App:24 - What do you want to do:
+	1.Calculate Simple Interest.
+	2.Calculate Compound Interest.
+	3.House construction cost.
+Enter your option:
+2020-02-24 21:02:26 INFO  App:67 - 	CALCULATING HOUSE CONSTRUCTION COST:
+Enter area in sq.ft :
+2020-02-24 21:02:30 INFO  App:71 - 	MATERIAL STANDARDS:
+		1.Standard
+		2.Above Standard
+		3.High Standard
+Enter material standards :
+2020-02-24 21:02:34 INFO  HouseConstructionCost:43 - 
+Total estimated cost of 380.0 sq.ft house with Above Standard materials is 570000.0
+2020-02-24 21:02:34 INFO  HouseConstructionCost:44 - CALCULATING CONSTRUCTION COST IS COMPLETE
+
